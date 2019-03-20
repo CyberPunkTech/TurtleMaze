@@ -1,7 +1,3 @@
-# Deryn Hurst
-# 11/23/2018
-# Work Through a Maze
-
 import turtle
 
 def drawMaze():
